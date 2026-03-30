@@ -11,6 +11,9 @@ public class Handson2 {
         System.out.println(" +-----+");
     }
 }
+
+
+
 ------ ATIVIDADDE 02 -----
 
 package handson2;
@@ -40,6 +43,8 @@ public class Handson2 {
         System.out.println("A distância entre esses pontos é: " + distancia + " km");
     }
 }
+
+
 
 ------ ATIVIDADDE 03 -----
 
@@ -81,6 +86,7 @@ public class Handson2 {
         sc.close();
     }
 }
+
 
 ------ ATIVIDADDE 04 -----
 
